@@ -2,7 +2,7 @@
 This is a Pytorch implementation of TAGnn: Time Adjoint Graph Neural Network for Traffic Forecasting. (DASFAA 2023)
 
 ## Data
-The datasets are available at [ASTGNN](https://github.com/guoshnBJTU/ASTGNN) and [STSGCN](https://github.com/Davidham3/STSGCN), and should be put into the corresponding `data/` folder.
+The datasets are provided at [ASTGNN](https://github.com/guoshnBJTU/ASTGNN) or [STSGCN](https://github.com/Davidham3/STSGCN), and the `PEMS0X.npz` files should be put into the corresponding `data/` folder.
 
 ## Requirements
 Python 3.9.12, torch 1.11.0, numpy 1.21.5
