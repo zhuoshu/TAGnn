@@ -1,0 +1,1 @@
+The datasets are available at [ASTGNN](https://github.com/guoshnBJTU/ASTGNN) or [STSGCN](https://github.com/Davidham3/STSGCN), and the `PEMS0X.npz` file should be put into the corresponding `data/` folder.
